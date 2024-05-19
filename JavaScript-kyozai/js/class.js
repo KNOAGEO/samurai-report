@@ -40,8 +40,8 @@ shampoo.describe();
 const user = {
     name: '侍太郎',
     age: 36,
-    gender: '男性' 
-    greet: () =>{
+    gender: '男性',
+    greet: () => {
           console.log('よろしくお願いいたします!');
     
     }
